@@ -58,7 +58,7 @@ Developed by: A.ARUVI
 RegisterNumber:212222230014  
 */
 ```
-# Using NAND gates:
+### Using NAND gates:
 
 module NAND(A,B,C,D,F);
 input A,B,C,D;
