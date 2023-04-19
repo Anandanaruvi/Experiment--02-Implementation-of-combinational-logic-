@@ -58,7 +58,7 @@ Developed by: A.ARUVI
 RegisterNumber:212222230014  
 */
 ```
-### Using NAND gates:
+### USING NAND gates:
 
 module NAND(A,B,C,D,F);
 input A,B,C,D;
@@ -70,7 +70,7 @@ assign R=(~(C & ~B & A));
 assign F=~(P & Q & R);
 endmodule
 ```
-# Using NOR gates:
+### Using NOR gates:
 ```
 module NOR(A,B,C,D,F);
 input A,B,C,D;
