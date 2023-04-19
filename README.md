@@ -54,6 +54,7 @@ F=(((C.B'.A)+(D.C'.A)+(C.B'.A))')'
 Program to implement the given logic function and to verify its operations in quartus using Verilog programming.
 
 Developed by: A.ARUVI
+
 RegisterNumber:212222230014  
 */
 ```
@@ -109,7 +110,6 @@ NOR combination
 ### Result:
 
 Thus the given logic functions are implemented using  and their operations are verified using Verilog programming.
-
 
 
 
